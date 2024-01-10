@@ -1,0 +1,9 @@
+* useCallback => It is used for memorise the function for optimization purpose based on dependencies.
+* useState => It is used to change the variable value at multiple location in the page.
+* useEffect => It will call first time when page load & if we change some dependencies then it will call again.
+* useRef => It is used to take the reference of any element on web page.
+* useId => It is used for generating unique IDs that can be passed to accessibility attributes.
+* useParams => It is used to take the parameters passed in function. (dynamic route).
+               It will come from react router dom.
+* useLoaderData => Loader will start fetching the data from API because clicking on the navlink/button.
+* useContext => It is used to take the reference of context.

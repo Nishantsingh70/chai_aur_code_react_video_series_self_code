@@ -1,0 +1,11 @@
+npx project:
+
+create project: npx create-react-app app_name
+Run the project: npm run start
+
+npm vite project:
+
+create project: npm create vite@latest
+Install modules: npm install 
+Run the project: npm run dev
+
