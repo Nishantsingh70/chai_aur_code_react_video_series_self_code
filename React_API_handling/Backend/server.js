@@ -1,3 +1,8 @@
+/*
+  npm init -y
+  npm install express
+*/
+
 import Express from "express";
 
 const app = new Express();
